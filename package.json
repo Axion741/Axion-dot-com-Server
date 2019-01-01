@@ -1,0 +1,27 @@
+{
+  "name": "Axion-dot-com-Server",
+  "version": "1.0.0",
+  "description": "Axion-dot-com-Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axion741/Axion-dot-com-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Axion741/Axion-dot-com-Server/issues"
+  },
+  "homepage": "https://github.com/Axion741/Axion-dot-com-Server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
