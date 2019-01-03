@@ -98,11 +98,12 @@
     },
     {
       "id": "001",
-      "title": "Test Post",
-      "date": "01/01/2018",
-      "keywords": "Test, Coding",
+      "title": "Start At The Beginning...",
+      "date": "03/01/2019",
+      "keywords": "Test, Coding, Autobiographical",
       "author": "Kyle",
-      "content": "Here's the blog content! It's neat! "
+      "content": 
+      "<p>Here it is; the first post.</p>\n<p>This website has been a long time coming. The first ideas for it's creation came about a year and a half ago, not long after I began my journey into coding.</p><p>After initially bouncing right off of basic web development writing HTML and CSS, with a touch on Bootstrap, I went away and practiced C# for a year or so. Then I found React.</p>"
     }
   ]
 }
