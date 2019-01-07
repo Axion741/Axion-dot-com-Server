@@ -103,7 +103,7 @@
       "keywords": "Test, Coding, Autobiographical",
       "author": "Kyle",
       "content": 
-      "<p>Here it is; the first post.</p><p>This website has been a long time coming. The first ideas for it's creation came about a year and a half ago, not long after I began my journey into coding.</p><p>After initially bouncing right off of basic web development writing HTML and CSS, with a touch on Bootstrap, I went away and practiced C# for a year or so. Then I found React.</p><p>This whole site is based on the Create-React-App template, with a few NPM modules imported to add some little bits of functionality.</p> <div> <img src={require(`./img/articles/2019/1/react.png`)}/> </div>"
+      "<p>Here it is; the first post.</p><p>This website has been a long time coming. The first ideas for it's creation came about a year and a half ago, not long after I began my journey into coding.</p><p>After initially bouncing right off of basic web development writing HTML and CSS, with a touch on Bootstrap, I went away and practiced C# for a year or so. Then I found React.</p><p>This whole site is based on the Create-React-App template, with a few NPM modules imported to add some little bits of functionality.</p> <div> <img src={require(`./img/articles/2019/1/react.png`)}></img> </div>"
     }
   ]
 }
